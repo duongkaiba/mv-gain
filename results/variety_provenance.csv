@@ -1,0 +1,11 @@
+detector,fold,path
+VisualAD-Acontinued,0,research/mv_zsad_experiments/runs/fold_00/seed_00/A_continued/eval/predictions_variety.npz
+VisualAD-Acontinued,1,research/mv_zsad_experiments/runs/fold_01/seed_00/A_continued/eval/predictions_variety.npz
+VisualAD-Acontinued,2,research/mv_zsad_experiments/runs/fold_02/seed_00/A_continued/eval/predictions_variety.npz
+VisualAD-Acontinued,3,research/mv_zsad_experiments/runs/fold_03/seed_00/A_continued/eval/predictions_variety.npz
+VisualAD-Acontinued,4,research/mv_zsad_experiments/runs/fold_04/seed_00/A_continued/eval/predictions_variety.npz
+VisualAD-F,0,research/mv_zsad_experiments/runs/fold_00/seed_00/F/eval/predictions_variety.npz
+VisualAD-F,1,research/mv_zsad_experiments/runs/fold_01/seed_00/F/eval/predictions_variety.npz
+VisualAD-F,2,research/mv_zsad_experiments/runs/fold_02/seed_00/F/eval/predictions_variety.npz
+VisualAD-F,3,research/mv_zsad_experiments/runs/fold_03/seed_00/F/eval/predictions_variety.npz
+VisualAD-F,4,research/mv_zsad_experiments/runs/fold_04/seed_00/F/eval/predictions_variety.npz

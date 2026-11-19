@@ -1,0 +1,36 @@
+detector,role,path
+VisualAD-A,raw_predictions,research/mv_zsad_experiments/runs/fold_00/seed_00/A/eval/predictions_fold0.npz
+VisualAD-A,raw_predictions,research/mv_zsad_experiments/runs/fold_01/seed_00/A/eval/predictions_fold1.npz
+VisualAD-A,raw_predictions,research/mv_zsad_experiments/runs/fold_02/seed_00/A/eval/predictions_fold2.npz
+VisualAD-A,raw_predictions,research/mv_zsad_experiments/runs/fold_03/seed_00/A/eval/predictions_fold3.npz
+VisualAD-A,raw_predictions,research/mv_zsad_experiments/runs/fold_04/seed_00/A/eval/predictions_fold4.npz
+VisualAD-Acontinued,raw_predictions,research/mv_zsad_experiments/runs/fold_00/seed_00/A_continued/eval/predictions_fold0.npz
+VisualAD-Acontinued,raw_predictions,research/mv_zsad_experiments/runs/fold_01/seed_00/A_continued/eval/predictions_fold1.npz
+VisualAD-Acontinued,raw_predictions,research/mv_zsad_experiments/runs/fold_02/seed_00/A_continued/eval/predictions_fold2.npz
+VisualAD-Acontinued,raw_predictions,research/mv_zsad_experiments/runs/fold_03/seed_00/A_continued/eval/predictions_fold3.npz
+VisualAD-Acontinued,raw_predictions,research/mv_zsad_experiments/runs/fold_04/seed_00/A_continued/eval/predictions_fold4.npz
+VisualAD-F,raw_predictions,research/mv_zsad_experiments/runs/fold_00/seed_00/F/eval/predictions_fold0.npz
+VisualAD-F,raw_predictions,research/mv_zsad_experiments/runs/fold_01/seed_00/F/eval/predictions_fold1.npz
+VisualAD-F,raw_predictions,research/mv_zsad_experiments/runs/fold_02/seed_00/F/eval/predictions_fold2.npz
+VisualAD-F,raw_predictions,research/mv_zsad_experiments/runs/fold_03/seed_00/F/eval/predictions_fold3.npz
+VisualAD-F,raw_predictions,research/mv_zsad_experiments/runs/fold_04/seed_00/F/eval/predictions_fold4.npz
+WinCLIP,raw_predictions,research/mv_zsad_experiments/baselines/winclip/fold_00/seed_00/WinCLIP/eval/predictions_fold0.npz
+WinCLIP,raw_predictions,research/mv_zsad_experiments/baselines/winclip/fold_01/seed_00/WinCLIP/eval/predictions_fold1.npz
+WinCLIP,raw_predictions,research/mv_zsad_experiments/baselines/winclip/fold_02/seed_00/WinCLIP/eval/predictions_fold2.npz
+WinCLIP,raw_predictions,research/mv_zsad_experiments/baselines/winclip/fold_03/seed_00/WinCLIP/eval/predictions_fold3.npz
+WinCLIP,raw_predictions,research/mv_zsad_experiments/baselines/winclip/fold_04/seed_00/WinCLIP/eval/predictions_fold4.npz
+Cross-view NN,raw_predictions,research/mv_zsad_experiments/baselines/crossview_nn/fold_00/seed_00/CrossViewNN/eval/predictions_fold0.npz
+Cross-view NN,raw_predictions,research/mv_zsad_experiments/baselines/crossview_nn/fold_01/seed_00/CrossViewNN/eval/predictions_fold1.npz
+Cross-view NN,raw_predictions,research/mv_zsad_experiments/baselines/crossview_nn/fold_02/seed_00/CrossViewNN/eval/predictions_fold2.npz
+Cross-view NN,raw_predictions,research/mv_zsad_experiments/baselines/crossview_nn/fold_03/seed_00/CrossViewNN/eval/predictions_fold3.npz
+Cross-view NN,raw_predictions,research/mv_zsad_experiments/baselines/crossview_nn/fold_04/seed_00/CrossViewNN/eval/predictions_fold4.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_00/seed_00/AnomalyCLIP/eval/predictions_fold0_shard0of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_00/seed_00/AnomalyCLIP/eval/predictions_fold0_shard1of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_01/seed_00/AnomalyCLIP/eval/predictions_fold1_shard0of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_01/seed_00/AnomalyCLIP/eval/predictions_fold1_shard1of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_02/seed_00/AnomalyCLIP/eval/predictions_fold2_shard0of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_02/seed_00/AnomalyCLIP/eval/predictions_fold2_shard1of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_03/seed_00/AnomalyCLIP/eval/predictions_fold3_shard0of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_03/seed_00/AnomalyCLIP/eval/predictions_fold3_shard1of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_04/seed_00/AnomalyCLIP/eval/predictions_fold4_shard0of2.npz
+AnomalyCLIP-VisA,raw_predictions,research/mv_zsad_experiments/baselines/anomalyclip_visa/fold_04/seed_00/AnomalyCLIP/eval/predictions_fold4_shard1of2.npz

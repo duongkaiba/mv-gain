@@ -1,0 +1,42 @@
+18:54:49 | INFO    | [realiad] building manifest from /home/duongn/zsoc/research/datasets/Real-IAD/jsons/realiad_jsons
+18:55:11 | INFO    | [realiad] 30210 objects -> /home/duongn/zsoc/research/mv_zsad_experiments/protocol/manifests/realiad.jsonl
+18:55:11 | INFO    | [realiad] audit pass=False
+18:55:11 | ERROR   | [realiad]   label_vs_view_or_mismatch: 1 violations
+18:55:11 | WARNING | [variety] data_root missing, skipped: /home/duongn/zsoc/research/datasets/Real-IAD-Variety/extracted
+18:55:11 | INFO    | [realiad] 30 categories
+18:55:11 | INFO    | folds -> /home/duongn/zsoc/research/mv_zsad_experiments/protocol/folds.json
+18:55:11 | INFO    |   fold 0: train=18 val=6 test=6  | test=['plastic_nut', 'plastic_plug', 'rolled_strip_base', 'switch', 'toothbrush', 'transistor1']
+18:55:11 | INFO    |   fold 1: train=18 val=6 test=6  | test=['sim_card_set', 'tape', 'usb', 'usb_adaptor', 'wooden_beads', 'woodstick']
+18:55:11 | INFO    |   fold 2: train=18 val=6 test=6  | test=['audiojack', 'bottle_cap', 'end_cap', 'eraser', 'regulator', 'u_block']
+18:55:11 | INFO    |   fold 3: train=18 val=6 test=6  | test=['fire_hood', 'mint', 'porcelain_doll', 'toy', 'toy_brick', 'vcpill']
+18:55:11 | INFO    |   fold 4: train=18 val=6 test=6  | test=['button_battery', 'mounts', 'pcb', 'phone_battery', 'terminalblock', 'zipper']
+18:55:11 | WARNING | target dataset 'variety' not available yet; overlap deferred
+18:55:11 | INFO    | P0 complete
+03:20:53 | INFO    | [realiad] manifest exists, loading: /home/duongn/zsoc/research/mv_zsad_experiments/protocol/manifests/realiad.jsonl
+03:20:54 | WARNING | [variety] data_root missing, skipped: /home/duongn/zsoc/research/datasets/Real-IAD-Variety/extracted
+03:20:54 | INFO    | [realiad] 30 categories
+03:20:54 | INFO    | folds -> /home/duongn/zsoc/research/mv_zsad_experiments/protocol/folds.json
+03:20:54 | INFO    |   fold 0: train=18 val=6 test=6  | test=['plastic_nut', 'plastic_plug', 'rolled_strip_base', 'switch', 'toothbrush', 'transistor1']
+03:20:54 | INFO    |   fold 1: train=18 val=6 test=6  | test=['sim_card_set', 'tape', 'usb', 'usb_adaptor', 'wooden_beads', 'woodstick']
+03:20:54 | INFO    |   fold 2: train=18 val=6 test=6  | test=['audiojack', 'bottle_cap', 'end_cap', 'eraser', 'regulator', 'u_block']
+03:20:54 | INFO    |   fold 3: train=18 val=6 test=6  | test=['fire_hood', 'mint', 'porcelain_doll', 'toy', 'toy_brick', 'vcpill']
+03:20:54 | INFO    |   fold 4: train=18 val=6 test=6  | test=['button_battery', 'mounts', 'pcb', 'phone_battery', 'terminalblock', 'zipper']
+03:20:54 | INFO    | [realiad] pixel subset: 2400 objects over 30 categories
+03:20:54 | WARNING | target dataset 'variety' not available yet; overlap deferred
+03:20:54 | INFO    | P0 complete
+00:55:19 | INFO    | [realiad] manifest exists, loading: /home/duongn/doan/zsoc/research/mv_zsad_experiments/protocol/manifests/realiad.jsonl
+00:55:21 | INFO    | [variety] building manifest from /home/duongn/doan/zsoc/research/datasets/Real-IAD-Variety/jsons/Real-IAD_Variety_jsons
+01:00:29 | INFO    | [variety] 39790 objects -> /home/duongn/doan/zsoc/research/mv_zsad_experiments/protocol/manifests/variety.jsonl
+01:00:30 | INFO    | [variety] audit pass=False
+01:00:30 | ERROR   | [variety]   label_vs_view_or_mismatch: 4 violations
+01:00:30 | INFO    | [realiad] 30 categories
+01:00:30 | INFO    | folds -> /home/duongn/doan/zsoc/research/mv_zsad_experiments/protocol/folds.json
+01:00:30 | INFO    |   fold 0: train=18 val=6 test=6  | test=['plastic_nut', 'plastic_plug', 'rolled_strip_base', 'switch', 'toothbrush', 'transistor1']
+01:00:30 | INFO    |   fold 1: train=18 val=6 test=6  | test=['sim_card_set', 'tape', 'usb', 'usb_adaptor', 'wooden_beads', 'woodstick']
+01:00:30 | INFO    |   fold 2: train=18 val=6 test=6  | test=['audiojack', 'bottle_cap', 'end_cap', 'eraser', 'regulator', 'u_block']
+01:00:30 | INFO    |   fold 3: train=18 val=6 test=6  | test=['fire_hood', 'mint', 'porcelain_doll', 'toy', 'toy_brick', 'vcpill']
+01:00:30 | INFO    |   fold 4: train=18 val=6 test=6  | test=['button_battery', 'mounts', 'pcb', 'phone_battery', 'terminalblock', 'zipper']
+01:00:30 | INFO    | [realiad] pixel subset: 2400 objects over 30 categories
+01:00:30 | INFO    | [variety] pixel subset: 12800 objects over 160 categories
+01:00:30 | INFO    | [variety] 160 categories | exact overlap 0 | fuzzy 20 | duplicate objects 0
+01:00:30 | INFO    | P0 complete

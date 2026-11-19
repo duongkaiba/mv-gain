@@ -1,0 +1,6162 @@
+{
+ "n_objects": 39790,
+ "checks": {
+  "wrong_view_count": [],
+  "duplicate_view_ids": [],
+  "label_vs_view_or_mismatch": [
+   [
+    "fork_crimp_terminal",
+    "NG/Scratch/S0012",
+    1,
+    0
+   ],
+   [
+    "laser_diode",
+    "NG/OilStain/S0005",
+    1,
+    0
+   ],
+   [
+    "purple_clay_pot",
+    "NG/MissingPart/S0017",
+    1,
+    0
+   ],
+   [
+    "purple_clay_pot",
+    "NG/MissingPart/S0021",
+    1,
+    0
+   ]
+  ],
+  "annotation_status_counts": {
+   "ok": 39692,
+   "mask_size_mismatch": 94,
+   "empty_mask_on_anomaly": 4
+  },
+  "objects_with_missing_mask": [],
+  "objects_with_missing_image": [],
+  "mask_size_mismatch": [
+   [
+    "VR_joystick",
+    "NG/Deformation/S0002"
+   ],
+   [
+    "common_mode_filter",
+    "NG/ExposedSurface/S0001"
+   ],
+   [
+    "lego_reel",
+    "NG/Deformation/S0031"
+   ],
+   [
+    "pot_core",
+    "NG/GelatinousContaminant/S0024"
+   ],
+   [
+    "pot_core",
+    "NG/ImpactDamage/S0021"
+   ],
+   [
+    "retaining_ring",
+    "NG/GelatinousContaminant/S0005"
+   ],
+   [
+    "retaining_ring",
+    "NG/MissingPart/S0005"
+   ],
+   [
+    "retaining_ring",
+    "NG/UnevenCoating/S0009"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0009"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0010"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0021"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0026"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0027"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0030"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0031"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0036"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0042"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0044"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0045"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0046"
+   ],
+   [
+    "thyristor",
+    "NG/MetallicContaminant/S0048"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0002"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0003"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0004"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0005"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0007"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0008"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0009"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0010"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0013"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0014"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0015"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0016"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0018"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0019"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0022"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0023"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0024"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0025"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0026"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0027"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0029"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0032"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0033"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0034"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0035"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0036"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0037"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0038"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0039"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0040"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0041"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0042"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0043"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0047"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0048"
+   ],
+   [
+    "thyristor",
+    "NG/OilStain/S0049"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0024"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0025"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0029"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0030"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0036"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0045"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0047"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0049"
+   ],
+   [
+    "thyristor",
+    "NG/Scratch/S0050"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0016"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0017"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0018"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0019"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0020"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0021"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0022"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0023"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0024"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0025"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0026"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0028"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0031"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0032"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0039"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0040"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0041"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0042"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0043"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0044"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0045"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0046"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0048"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0049"
+   ],
+   [
+    "thyristor",
+    "NG/TwistedWire/S0050"
+   ],
+   [
+    "toy_tire",
+    "NG/GelatinousContaminant/S0009"
+   ],
+   [
+    "toy_tire",
+    "NG/GelatinousContaminant/S0025"
+   ],
+   [
+    "vertical_adjustable_resistor",
+    "NG/OilStain/S0001"
+   ]
+  ],
+  "duplicate_content_hash": {
+   "0f30617b26e3106eec7b898ae6492f78": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0001"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0001"
+    ]
+   ],
+   "34d7791120c008cc4b3ea77c23a1803d": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0002"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0002"
+    ]
+   ],
+   "88fc293a10922a7d269123fd6dbb6ebc": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0003"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0003"
+    ]
+   ],
+   "b78312ce119012ec66ef9502fbb8afc7": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0004"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0004"
+    ]
+   ],
+   "33931d1face5f6fd9a39d21bbce83669": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0005"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0005"
+    ]
+   ],
+   "6abf14e0c71662e85e3b0d3458e3c4ca": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0006"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0006"
+    ]
+   ],
+   "8f5961a196d53e99d4c1c1558cd4a1ba": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0007"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0007"
+    ]
+   ],
+   "e3beb432aa564353e051ad15d619033e": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0008"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0008"
+    ]
+   ],
+   "b30cf6f648551f0cde7168d7f0b6dd67": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0009"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0009"
+    ]
+   ],
+   "e369ddce58c792ee8961c55fee42889c": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0010"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0010"
+    ]
+   ],
+   "09ca0318700f2e29ec72cda0db17d064": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0011"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0011"
+    ]
+   ],
+   "73d123757abc1de98168fcce233fca08": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0012"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0012"
+    ]
+   ],
+   "d557dd9661ea2b9ac6ecad7c0c6a6d9a": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0013"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0013"
+    ]
+   ],
+   "02a72cf7333c26c5ed4fbc913d846453": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0014"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0014"
+    ]
+   ],
+   "5d59ed4cf7adc45516e615d3b1268938": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0015"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0015"
+    ]
+   ],
+   "f82f1b3971bce4f629918dde278e09ab": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0016"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0016"
+    ]
+   ],
+   "0705f227ab5ad6a2a17b00baa6eb254c": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0017"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0017"
+    ]
+   ],
+   "3e06c911625e8ddf9ac8852a3591736f": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0018"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0018"
+    ]
+   ],
+   "03f959407f46d548eae9bc13e22a28d2": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0019"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0019"
+    ]
+   ],
+   "5a107f12dcff15215506a0a41053ed6b": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0020"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0020"
+    ]
+   ],
+   "8eeb1e4c127390bd7da179a5c948ace1": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0021"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0021"
+    ]
+   ],
+   "8627eb3f3f3fbeaf89ca9f5f1062491a": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0022"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0022"
+    ]
+   ],
+   "18169b2c60478d02566cb1607e591973": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0023"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0023"
+    ]
+   ],
+   "4b6dd596471dbbd1871784918539a9c9": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0024"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0024"
+    ]
+   ],
+   "4c16b634a22088ff14109bf9e15ad4f3": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0025"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0025"
+    ]
+   ],
+   "fc5525fcca4e1b2cc8d9c8ec0fd2b732": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0026"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0026"
+    ]
+   ],
+   "d7a7bc7ff3758fc17b3571a731da2929": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0027"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0027"
+    ]
+   ],
+   "754a627bc295023fec14bea0e0b8c777": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0028"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0028"
+    ]
+   ],
+   "70ccc16926054f8e93311a6c5c005dbc": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0029"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0029"
+    ]
+   ],
+   "796b32c8e1303e0b333bcdaae64b5d4e": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0030"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0030"
+    ]
+   ],
+   "9f6fe81fc3c5dfd7e11aa0f8da410ee1": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0031"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0031"
+    ]
+   ],
+   "49d700ef77501e02001f1c4196a15253": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0032"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0032"
+    ]
+   ],
+   "5340c60210f6e8e43f505d272f0b5c6a": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0033"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0033"
+    ]
+   ],
+   "cec67694bda9d7218cd3a1c5a0e4a1f2": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0034"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0034"
+    ]
+   ],
+   "97559d4ae1ffc72642179b3adbe8a227": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0035"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0035"
+    ]
+   ],
+   "6ecb65d56e7d4342c77e1f59aaf1a580": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0036"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0036"
+    ]
+   ],
+   "ef1d85089aa1e26f00cfc3d269ac7e80": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0037"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0037"
+    ]
+   ],
+   "8f0e5f7b28734cce71d24210d0961b33": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0038"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0038"
+    ]
+   ],
+   "b1c28b21b5fb933345e819a5e6cc3455": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0039"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0039"
+    ]
+   ],
+   "c708fe23ef3c3ee4b6eea01da54e8358": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0040"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0040"
+    ]
+   ],
+   "1e103823c79e3d09bbc99c6f81f4b58a": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0041"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0041"
+    ]
+   ],
+   "9d667a3fb870d9b24f784f682c29b753": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0042"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0042"
+    ]
+   ],
+   "75b318a14c04ddc385fa8fb13469f023": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0043"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0043"
+    ]
+   ],
+   "a527029f7c734dd12a5e46446cb7c9d3": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0044"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0044"
+    ]
+   ],
+   "890de16485e68b4c1b358703380ff1af": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0045"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0045"
+    ]
+   ],
+   "12fc5995ef40d3a17cf685656d8368ba": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0046"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0046"
+    ]
+   ],
+   "f374c188c7f032c7b53a8c5842b44357": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0047"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0047"
+    ]
+   ],
+   "d7fab6544d7fe3c43bb4bbf8cb63cab6": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0048"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0048"
+    ]
+   ],
+   "d7cf6ad2e1e52f3930ab5368d792af55": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0049"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0049"
+    ]
+   ],
+   "f762e54fd7fc8ef92aa7363e5879572e": [
+    [
+     "variety",
+     "audio_jack_socket",
+     "NG/Pit/S0050"
+    ],
+    [
+     "variety",
+     "detection_switch",
+     "NG/Pit/S0050"
+    ]
+   ],
+   "85229b070b93775c4d7ab4a3c90f382b": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0026"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0026"
+    ]
+   ],
+   "44434be4e327290c9620e47bbaaf3c92": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0027"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0027"
+    ]
+   ],
+   "f1ee817b2bd5751f790f6ef0b7403d60": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0028"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0028"
+    ]
+   ],
+   "f5af71196003c7e323d4b022891e8580": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0029"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0029"
+    ]
+   ],
+   "e7b8a03e2d312fdab5df01cfc26cf8bb": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0030"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0030"
+    ]
+   ],
+   "1b634d35788a015009aa8bed1079a8a7": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0031"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0031"
+    ]
+   ],
+   "840fc71bd4ab5ff8a713c7c54b11cfc3": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0032"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0032"
+    ]
+   ],
+   "50def0ca5ac3a004288152368fea853c": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0033"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0033"
+    ]
+   ],
+   "c8a9cb87b777d99caf0d03e3336b91e2": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0034"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0034"
+    ]
+   ],
+   "e8f89950778642208215ec7ca82b6eec": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0035"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0035"
+    ]
+   ],
+   "cbfba11dae735063ab0947fcb208bd4a": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0036"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0036"
+    ]
+   ],
+   "f4ef77aefc5b7fc671566ec49a77913c": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0037"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0037"
+    ]
+   ],
+   "e3582d1e6f5bd2f742b02ffbc4584b9f": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0038"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0038"
+    ]
+   ],
+   "1179e5e9463ae853aebaf2aced43bb94": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0039"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0039"
+    ]
+   ],
+   "a0a6fb6c762cac4aa9ac0f62aefb70f1": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0040"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0040"
+    ]
+   ],
+   "c3cba19121d518ff8126d686284cf6d2": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0041"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0041"
+    ]
+   ],
+   "411b3ab34f8b65631b86e9a4ee8fa975": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0042"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0042"
+    ]
+   ],
+   "0fb95b9a31b24375665a20429d2a050c": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0043"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0043"
+    ]
+   ],
+   "307e0cc12ef07535288991d92e021b60": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0044"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0044"
+    ]
+   ],
+   "9e297f9973f4621126ad41542d9cac45": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0045"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0045"
+    ]
+   ],
+   "1769f0efb7a5f462fc1fc079482e2d1e": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0046"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0046"
+    ]
+   ],
+   "87e48dc02401ca7e44927e84ed8be9a5": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0047"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0047"
+    ]
+   ],
+   "06b58e61b0f718d393a83a6e54ded891": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0048"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0048"
+    ]
+   ],
+   "ba5e1c8d79e3dca0f448494478ee3cd4": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0049"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0049"
+    ]
+   ],
+   "7b1e3efc41d75985e972736c83f6870e": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0050"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0050"
+    ]
+   ],
+   "94982cbb37d97aaa079add411650bf33": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0001"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0001"
+    ]
+   ],
+   "1ef738e6522214463b3f807e801a012f": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0002"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0002"
+    ]
+   ],
+   "35501a9f48e0e54ecef4cbcd9a0a9478": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0003"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0003"
+    ]
+   ],
+   "1c97fa3ee6b079829738eb0828b28c50": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0004"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0004"
+    ]
+   ],
+   "055fe37140b2228809040c13ed333893": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0005"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0005"
+    ]
+   ],
+   "c4adb9fd3234a77a3c67ff21e4f1b243": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0006"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0006"
+    ]
+   ],
+   "b0925691361c7174c3374afc0fcad0d8": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0007"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0007"
+    ]
+   ],
+   "f1484d79838cb789b48b19c2dcf15201": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0008"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0008"
+    ]
+   ],
+   "552b6cc7893e3f4a9ba7276d9ada8aa9": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0009"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0009"
+    ]
+   ],
+   "90b67a3d417ea3807b249b6a1f8a9524": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0010"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0010"
+    ]
+   ],
+   "9f13d5e45127e4765bf177ac14d91e70": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0011"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0011"
+    ]
+   ],
+   "53b5db52e4eb5047ff88d83839cb0f16": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0012"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0012"
+    ]
+   ],
+   "9de1c7e42486c6f05f6118da1453440d": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0013"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0013"
+    ]
+   ],
+   "85b0c2e0a39279a572e64c37ae175ef4": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0014"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0014"
+    ]
+   ],
+   "6c9d4b99cedcf32d14caec51b6febbc8": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0015"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0015"
+    ]
+   ],
+   "b47eb3842b9555206f05c4c8dea67191": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0016"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0016"
+    ]
+   ],
+   "fb429a5c0b8d0578c6b6b0d2a82d419a": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0017"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0017"
+    ]
+   ],
+   "74b890a5b02a090cc13007eaff5c6c3e": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0018"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0018"
+    ]
+   ],
+   "7ed93feebeba1eeaef6fb5836ffa28e4": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0019"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0019"
+    ]
+   ],
+   "dd1964877aa57d79964e1b1f48dc47c2": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0020"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0020"
+    ]
+   ],
+   "e9b71c064b809f6b29ab55b9754b810e": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0021"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0021"
+    ]
+   ],
+   "8cb87010b9525ab39c54476aef0091d7": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0022"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0022"
+    ]
+   ],
+   "5a1173ce4f6e9997483d7742dcf9058a": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0023"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0023"
+    ]
+   ],
+   "7ae2a5aa63384427da27c7ac66449acc": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0024"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0024"
+    ]
+   ],
+   "12a5ad511739e9fcce72720934bcde13": [
+    [
+     "variety",
+     "button_battery_holder",
+     "OK/S0025"
+    ],
+    [
+     "variety",
+     "fuse_holder",
+     "OK/S0025"
+    ]
+   ],
+   "f934449c6254eeb5203f271687978268": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0004"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0003"
+    ]
+   ],
+   "f5e9bad7983cac5795a9e9a90a4bf001": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0006"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0005"
+    ]
+   ],
+   "53f08658070516cfba9125bcb8714400": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0008"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0007"
+    ]
+   ],
+   "4743241dd350e9a231fa1ba332eeb970": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0010"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0009"
+    ]
+   ],
+   "0328598046e465ef320864a23ffd47fd": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0011"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0010"
+    ]
+   ],
+   "c0e37ddd4cb639b94bd3cf7534b20ba4": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0015"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0014"
+    ]
+   ],
+   "7b38608010fbbf06cd299e43950179f2": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0018"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0017"
+    ]
+   ],
+   "f3df7b4f426defc9a74d2a1d0fae7016": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0032"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0030"
+    ]
+   ],
+   "ba013269774272137697ede9a2a6d536": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0045"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0041"
+    ]
+   ],
+   "e35c6083d2c398dd7616fb1badb8cc33": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/MissingPart/S0048"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0042"
+    ]
+   ],
+   "7a0ef06e19597d084a68851b07721cb6": [
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0033"
+    ],
+    [
+     "variety",
+     "laser_diode",
+     "NG/OilStain/S0044"
+    ]
+   ]
+  }
+ },
+ "per_category": {
+  "2pin_block_plug": {
+   "n_objects": 248,
+   "n_normal": 48,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 224,
+    "train": 24
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.107748,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "3_adapter": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "FiberorBurrs": 49,
+    "Fracture": 50,
+    "OilStain": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.01067,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "3pin_aviation_connector": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 8,
+    "5": 189
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.959,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "GelatinousContaminant": 48,
+    "MissingPart": 50,
+    "OilStain": 49
+   },
+   "median_defect_area_frac": 0.016566,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "4_wire_stepping_motor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 50,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.002341,
+   "strata_too_small": []
+  },
+  "DVD_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.02403,
+   "strata_too_small": []
+  },
+  "D_sub_connector": {
+   "n_objects": 246,
+   "n_normal": 50,
+   "n_anomalous": 196,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 16,
+    "5": 180
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.918,
+   "splits": {
+    "test": 221,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 47,
+    "Fracture": 49,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.017843,
+   "strata_too_small": []
+  },
+  "LED_indicator": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "MissingPart": 50,
+    "Pit": 50,
+    "Scratch": 48
+   },
+   "median_defect_area_frac": 0.007123,
+   "strata_too_small": []
+  },
+  "PLCC_socket": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.007236,
+   "strata_too_small": []
+  },
+  "VR_joystick": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 45,
+    "5": 155
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.775,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Deformation": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.011062,
+   "strata_too_small": []
+  },
+  "access_card": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "MissingPart": 50,
+    "Pit": 49,
+    "Scratch": 48
+   },
+   "median_defect_area_frac": 0.005059,
+   "strata_too_small": []
+  },
+  "accurate_detection_switch": {
+   "n_objects": 247,
+   "n_normal": 49,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 6,
+    "5": 191
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.955,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 49,
+    "GelatinousContaminant": 50,
+    "Scratch": 49
+   },
+   "median_defect_area_frac": 0.037015,
+   "strata_too_small": [
+    "2",
+    "4"
+   ]
+  },
+  "aircraft_model_head": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 197
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.97,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Damage": 50,
+    "Discoloration": 50,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.011785,
+   "strata_too_small": [
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "angled_toggle_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BrokenWire": 50,
+    "Deformation": 50,
+    "Discoloration": 50,
+    "WireJump": 50
+   },
+   "median_defect_area_frac": 0.026814,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "audio_jack_socket": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 2,
+    "3": 7,
+    "4": 49,
+    "5": 142
+   },
+   "p_k_le_2": 0.01,
+   "mean_k": 4.655,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Pit": 50,
+    "Scratch": 50,
+    "porosity": 50
+   },
+   "median_defect_area_frac": 0.004634,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "bag_buckle": {
+   "n_objects": 247,
+   "n_normal": 49,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 24
+   },
+   "defect_classes": {
+    "BurnMark": 49,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Scratch": 49
+   },
+   "median_defect_area_frac": 0.007954,
+   "strata_too_small": []
+  },
+  "ball_pin": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.011263,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "balun_transformer": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 2,
+    "4": 45,
+    "5": 151
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.753,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "CharacterOmission": 50,
+    "GelatinousContaminant": 48,
+    "OilStain": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.018739,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "battery": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 2,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "MissingPart": 50,
+    "Pit": 50,
+    "TwistedWire": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.01043,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "battery_holder_connector": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 196
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "MissingPart": 50,
+    "OilStain": 48,
+    "Pit": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.019846,
+   "strata_too_small": [
+    "1"
+   ]
+  },
+  "battery_socket_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 38,
+    "5": 162
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.81,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "OilStain": 50,
+    "Pit": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.024305,
+   "strata_too_small": []
+  },
+  "bend_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 2,
+    "3": 0,
+    "4": 13,
+    "5": 185
+   },
+   "p_k_le_2": 0.01,
+   "mean_k": 4.905,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 50
+   },
+   "median_defect_area_frac": 0.014118,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "blade_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.012701,
+   "strata_too_small": []
+  },
+  "blue_light_switch": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 29,
+    "5": 170
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.854,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "MissingPart": 50,
+    "Scratch": 49
+   },
+   "median_defect_area_frac": 0.008405,
+   "strata_too_small": []
+  },
+  "bluetooth_module": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 49,
+    "GelatinousContaminant": 50,
+    "MetallicContaminant": 50,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.045926,
+   "strata_too_small": []
+  },
+  "boost_converter_module": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 1,
+    "2": 2,
+    "3": 12,
+    "4": 24,
+    "5": 159
+   },
+   "p_k_le_2": 0.0152,
+   "mean_k": 4.707,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "BrokenWire": 49,
+    "Damage": 50,
+    "Discoloration": 50,
+    "MetallicContaminant": 49
+   },
+   "median_defect_area_frac": 0.028895,
+   "strata_too_small": [
+    "1",
+    "2"
+   ]
+  },
+  "bread_model": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 25,
+    "5": 174
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.865,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "BurnMark": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.005232,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "brooch_clasp_accessory": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 13,
+    "5": 187
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.935,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.054591,
+   "strata_too_small": []
+  },
+  "button_battery_holder": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 49,
+    "Discoloration": 50,
+    "FiberorBurrs": 50,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.013609,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "button_motor": {
+   "n_objects": 246,
+   "n_normal": 50,
+   "n_anomalous": 196,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 196
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 221,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 49,
+    "Discoloration": 47,
+    "Scratch": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.009815,
+   "strata_too_small": []
+  },
+  "button_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "ExposedSurface": 50,
+    "OilStain": 50,
+    "Porosity": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.005779,
+   "strata_too_small": []
+  },
+  "car_door_lock_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "OilStain": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.006401,
+   "strata_too_small": []
+  },
+  "ceramic_fuse": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BrokenWire": 50,
+    "Damage": 50,
+    "Deformation": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.013378,
+   "strata_too_small": []
+  },
+  "ceramic_wave_filter": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "CharacterOmission": 50,
+    "Deformation": 49,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.011966,
+   "strata_too_small": []
+  },
+  "charging_port": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 192
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.949,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 49,
+    "GelatinousContaminant": 50,
+    "MissingPart": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.02053,
+   "strata_too_small": [
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "chip_inductor": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 49,
+    "ExposedCopper": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.049406,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "circuit_breaker": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Deformation": 50,
+    "Discoloration": 49,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.015422,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "circular_aviation_connector": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 6,
+    "2": 26,
+    "3": 9,
+    "4": 3,
+    "5": 154
+   },
+   "p_k_le_2": 0.1616,
+   "mean_k": 4.379,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "MissingPart": 50,
+    "OilStain": 48,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.005393,
+   "strata_too_small": [
+    "1",
+    "3",
+    "4"
+   ]
+  },
+  "common_mode_choke": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 17,
+    "4": 25,
+    "5": 157
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.69,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BrokenWire": 50,
+    "Deformation": 50,
+    "Discoloration": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.028865,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "common_mode_filter": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 6,
+    "5": 194
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.97,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 50,
+    "ExposedSurface": 50,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.038828,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "connector": {
+   "n_objects": 245,
+   "n_normal": 50,
+   "n_anomalous": 195,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 5,
+    "5": 190
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.974,
+   "splits": {
+    "test": 220,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 47,
+    "Discoloration": 49,
+    "GelatinousContaminant": 49,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.085954,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "connector_housing_female": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.033362,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "console_switch": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "Pit": 48
+   },
+   "median_defect_area_frac": 0.009936,
+   "strata_too_small": []
+  },
+  "crimp_st_cable_mount_box": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 9,
+    "5": 189
+   },
+   "p_k_le_2": 0.01,
+   "mean_k": 4.915,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.01246,
+   "strata_too_small": [
+    "1",
+    "4"
+   ]
+  },
+  "dc_jack": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 5,
+    "4": 34,
+    "5": 158
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.763,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Damage": 48,
+    "Deformation": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.034669,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "dc_power_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Discoloration": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.006013,
+   "strata_too_small": []
+  },
+  "detection_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 5,
+    "4": 51,
+    "5": 144
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.695,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00666,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "duckbill_circuit_breaker": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 10,
+    "5": 184
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.914,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "CharacterOmission": 50,
+    "GelatinousContaminant": 50,
+    "ImpactDamage": 50,
+    "MetallicContaminant": 47
+   },
+   "median_defect_area_frac": 0.009167,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "earphone_audio_unit": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 20,
+    "5": 180
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.9,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "MetallicContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.026371,
+   "strata_too_small": []
+  },
+  "effect_transistor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 4,
+    "4": 67,
+    "5": 128
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.61,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.015902,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "electronic_watch_movement": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "MissingPart": 50,
+    "OilStain": 48,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.008064,
+   "strata_too_small": []
+  },
+  "ethernet_connector": {
+   "n_objects": 224,
+   "n_normal": 50,
+   "n_anomalous": 174,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 14,
+    "5": 159
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.908,
+   "splits": {
+    "test": 199,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Porosity": 50,
+    "Scratch": 50,
+    "UnevenCoating": 24
+   },
+   "median_defect_area_frac": 0.008262,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "ferrite_bead": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 9,
+    "5": 191
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.955,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.0027,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "ffc_connector_plug": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 51,
+    "5": 149
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.745,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "ImpactDamage": 50,
+    "MetallicContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00625,
+   "strata_too_small": []
+  },
+  "flow_control_valve": {
+   "n_objects": 247,
+   "n_normal": 49,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 5,
+    "4": 15,
+    "5": 178
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.874,
+   "splits": {
+    "test": 223,
+    "train": 24
+   },
+   "defect_classes": {
+    "Abrasion": 48,
+    "ExcessMaterial": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.005026,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "flower_copper_shape": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.024722,
+   "strata_too_small": []
+  },
+  "flower_velvet_fabric": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.04415,
+   "strata_too_small": []
+  },
+  "fork_crimp_terminal": {
+   "n_objects": 246,
+   "n_normal": 50,
+   "n_anomalous": 196,
+   "k_hist": {
+    "1": 4,
+    "2": 8,
+    "3": 6,
+    "4": 18,
+    "5": 159
+   },
+   "p_k_le_2": 0.0612,
+   "mean_k": 4.617,
+   "splits": {
+    "test": 221,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 49,
+    "MetallicContaminant": 49,
+    "Scratch": 48
+   },
+   "median_defect_area_frac": 0.01127,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "fuse_cover": {
+   "n_objects": 247,
+   "n_normal": 47,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 50,
+    "5": 150
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.75,
+   "splits": {
+    "test": 223,
+    "train": 24
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "OilStain": 50,
+    "Porosity": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00508,
+   "strata_too_small": []
+  },
+  "fuse_holder": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "FiberorBurrs": 49,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.010899,
+   "strata_too_small": []
+  },
+  "gear": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.038275,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "gear_motor": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "BrokenWire": 50,
+    "Discoloration": 49,
+    "MetallicContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.003876,
+   "strata_too_small": []
+  },
+  "green_ring_filter": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 6,
+    "2": 11,
+    "3": 14,
+    "4": 41,
+    "5": 128
+   },
+   "p_k_le_2": 0.085,
+   "mean_k": 4.37,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "BrokenWire": 50,
+    "Deformation": 50,
+    "Discoloration": 50
+   },
+   "median_defect_area_frac": 0.008788,
+   "strata_too_small": [
+    "1"
+   ]
+  },
+  "hairdryer_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "OilStain": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00404,
+   "strata_too_small": []
+  },
+  "hall_effect_sensor": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "ExcessMaterial": 48,
+    "Fracture": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.026233,
+   "strata_too_small": []
+  },
+  "headphone_jack_female": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "MissingPart": 50,
+    "OilStain": 49,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.023038,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "headphone_jack_socket": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 5,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.975,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 50,
+    "GelatinousContaminant": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.020022,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "hex_plug": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "ImpactDamage": 50
+   },
+   "median_defect_area_frac": 0.012636,
+   "strata_too_small": []
+  },
+  "humidity_sensor": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 9,
+    "5": 190
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.955,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "ImpactDamage": 49,
+    "OilStain": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.00941,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "ingot_buckle": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 49,
+    "MetallicContaminant": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.008259,
+   "strata_too_small": []
+  },
+  "insect_metal_parts": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 7,
+    "5": 186
+   },
+   "p_k_le_2": 0.0152,
+   "mean_k": 4.894,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 48,
+    "GelatinousContaminant": 50,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.017079,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "inverter_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Fracture": 50,
+    "ImpactDamage": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.009513,
+   "strata_too_small": []
+  },
+  "jam_jar_model": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 9,
+    "4": 41,
+    "5": 148
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.688,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "CharacterOmission": 50,
+    "Discoloration": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.017585,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "joystick_switch": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "Pit": 48
+   },
+   "median_defect_area_frac": 0.005854,
+   "strata_too_small": []
+  },
+  "kfc_push_key_switch": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 4,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "GelatinousContaminant": 49,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.004348,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "knob_cap": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 40,
+    "5": 159
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.799,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "Fracture": 49,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.020878,
+   "strata_too_small": []
+  },
+  "laser_diode": {
+   "n_objects": 243,
+   "n_normal": 50,
+   "n_anomalous": 193,
+   "k_hist": {
+    "1": 4,
+    "2": 2,
+    "3": 2,
+    "4": 12,
+    "5": 172
+   },
+   "p_k_le_2": 0.0311,
+   "mean_k": 4.777,
+   "splits": {
+    "test": 218,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 49,
+    "MissingPart": 50,
+    "OilStain": 44,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.004532,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "lattice_block_plug": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 52,
+    "5": 146
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.724,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Deformation": 50,
+    "Porosity": 50,
+    "Scratch": 49
+   },
+   "median_defect_area_frac": 0.006209,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "lego_pin_connector_plate": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Pit": 48
+   },
+   "median_defect_area_frac": 0.018074,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "lego_propeller": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 2,
+    "4": 3,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.965,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00735,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "lego_reel": {
+   "n_objects": 245,
+   "n_normal": 50,
+   "n_anomalous": 195,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 220,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 45,
+    "Discoloration": 50,
+    "Pit": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.012733,
+   "strata_too_small": []
+  },
+  "lego_technical_gear": {
+   "n_objects": 243,
+   "n_normal": 50,
+   "n_anomalous": 193,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 1,
+    "4": 14,
+    "5": 177
+   },
+   "p_k_le_2": 0.0052,
+   "mean_k": 4.902,
+   "splits": {
+    "test": 218,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 48,
+    "GelatinousContaminant": 49,
+    "OilStain": 49,
+    "Scratch": 47
+   },
+   "median_defect_area_frac": 0.013343,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "lego_turbine": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 8,
+    "2": 24,
+    "3": 8,
+    "4": 8,
+    "5": 152
+   },
+   "p_k_le_2": 0.16,
+   "mean_k": 4.36,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "HoleBlockage": 50
+   },
+   "median_defect_area_frac": 0.043671,
+   "strata_too_small": [
+    "1",
+    "3",
+    "4"
+   ]
+  },
+  "lighting_connector": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 19,
+    "4": 35,
+    "5": 144
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.631,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 48,
+    "GelatinousContaminant": 50,
+    "MissingPart": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.022838,
+   "strata_too_small": []
+  },
+  "lilypad_led": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Damage": 50,
+    "OilStain": 48,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.007638,
+   "strata_too_small": []
+  },
+  "limit_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 18,
+    "2": 4,
+    "3": 0,
+    "4": 27,
+    "5": 151
+   },
+   "p_k_le_2": 0.11,
+   "mean_k": 4.445,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.021825,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "lithium_battery_plug": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 18,
+    "5": 180
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.899,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "OilStain": 50,
+    "Pit": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.008471,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "littel_fuse": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "Fracture": 50,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.029048,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "little_cow_model": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 30,
+    "5": 167
+   },
+   "p_k_le_2": 0.0101,
+   "mean_k": 4.809,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.008971,
+   "strata_too_small": [
+    "1"
+   ]
+  },
+  "lock": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 3,
+    "4": 13,
+    "5": 184
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.905,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "MissingPart": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.030409,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "long_zipper": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 3,
+    "4": 6,
+    "5": 190
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.94,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 49,
+    "MetallicContaminant": 50,
+    "MissingPart": 50
+   },
+   "median_defect_area_frac": 0.006802,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "meteor_hammer_arrowhead": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 1,
+    "2": 0,
+    "3": 7,
+    "4": 29,
+    "5": 163
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.765,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "OilStain": 50,
+    "Scratch": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.015497,
+   "strata_too_small": [
+    "1",
+    "3"
+   ]
+  },
+  "miniature_laser_module": {
+   "n_objects": 242,
+   "n_normal": 50,
+   "n_anomalous": 192,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 189
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.984,
+   "splits": {
+    "test": 217,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 42,
+    "BurnMark": 50,
+    "Damage": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.009586,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "miniature_lifting_motor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.010619,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "miniature_motor": {
+   "n_objects": 249,
+   "n_normal": 49,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.009838,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "miniature_stepper_motor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "MetallicContaminant": 50
+   },
+   "median_defect_area_frac": 0.032024,
+   "strata_too_small": []
+  },
+  "mobile_charging_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "GelatinousContaminant": 50,
+    "MetallicContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.021955,
+   "strata_too_small": []
+  },
+  "model_steering_module": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 43,
+    "5": 156
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.775,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.004422,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "monitor_socket": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 196
+   },
+   "p_k_le_2": 0.0051,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 47,
+    "ImpactDamage": 50
+   },
+   "median_defect_area_frac": 0.015147,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "motor_bracket": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 49,
+    "Fracture": 50,
+    "PorosityDS": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.020511,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "motor_gear_reducer": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 2,
+    "3": 0,
+    "4": 2,
+    "5": 196
+   },
+   "p_k_le_2": 0.01,
+   "mean_k": 4.96,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "MetallicContaminant": 50,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.010571,
+   "strata_too_small": [
+    "2",
+    "4"
+   ]
+  },
+  "motor_plug": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.975,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Damage": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.049155,
+   "strata_too_small": [
+    "1",
+    "4"
+   ]
+  },
+  "mouse_socket": {
+   "n_objects": 246,
+   "n_normal": 50,
+   "n_anomalous": 196,
+   "k_hist": {
+    "1": 1,
+    "2": 2,
+    "3": 9,
+    "4": 10,
+    "5": 174
+   },
+   "p_k_le_2": 0.0153,
+   "mean_k": 4.806,
+   "splits": {
+    "test": 221,
+    "train": 25
+   },
+   "defect_classes": {
+    "MetallicContaminant": 49,
+    "Pit": 47,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.007093,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "multi_function_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 50
+   },
+   "median_defect_area_frac": 0.015675,
+   "strata_too_small": []
+  },
+  "nylon_ball_head": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "MissingPart": 50,
+    "OilStain": 50,
+    "PorosityDS": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.017063,
+   "strata_too_small": []
+  },
+  "optical_fiber_outlet": {
+   "n_objects": 248,
+   "n_normal": 48,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 225,
+    "train": 23
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.013087,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "pencil_sharpener": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 9,
+    "5": 189
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.945,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "MissingPart": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.005116,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "pinboard_connector": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.014063,
+   "strata_too_small": []
+  },
+  "pitch_connector": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 32,
+    "5": 166
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.838,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "OilStain": 48,
+    "Porosity": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.013367,
+   "strata_too_small": []
+  },
+  "pneumatic_elbow": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.021475,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "pot_core": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "ImpactDamage": 50
+   },
+   "median_defect_area_frac": 0.049033,
+   "strata_too_small": [
+    "2",
+    "4"
+   ]
+  },
+  "potentiometer": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 13,
+    "4": 33,
+    "5": 152
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.702,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Damage": 50,
+    "Deformation": 50,
+    "Discoloration": 48
+   },
+   "median_defect_area_frac": 0.006536,
+   "strata_too_small": []
+  },
+  "power_bank_module": {
+   "n_objects": 245,
+   "n_normal": 50,
+   "n_anomalous": 195,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 14,
+    "5": 181
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.928,
+   "splits": {
+    "test": 220,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 48,
+    "Fracture": 49,
+    "GelatinousContaminant": 50,
+    "MissingPart": 48
+   },
+   "median_defect_area_frac": 0.022918,
+   "strata_too_small": []
+  },
+  "power_inductor": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 4,
+    "4": 7,
+    "5": 187
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.91,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Discoloration": 49,
+    "MissingPart": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.017001,
+   "strata_too_small": [
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "power_jack": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "ImpactDamage": 50,
+    "Porosity": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00346,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "power_strip_socket": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 142,
+    "5": 58
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.29,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.007351,
+   "strata_too_small": []
+  },
+  "pulse_transformer": {
+   "n_objects": 245,
+   "n_normal": 50,
+   "n_anomalous": 195,
+   "k_hist": {
+    "1": 0,
+    "2": 4,
+    "3": 0,
+    "4": 0,
+    "5": 191
+   },
+   "p_k_le_2": 0.0205,
+   "mean_k": 4.938,
+   "splits": {
+    "test": 220,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "MissingPart": 50,
+    "Pit": 45,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.021988,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "purple_clay_pot": {
+   "n_objects": 242,
+   "n_normal": 50,
+   "n_anomalous": 192,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 189
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.943,
+   "splits": {
+    "test": 217,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "FiberorBurrs": 48,
+    "MissingPart": 44,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.015811,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "push_button_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 13,
+    "5": 187
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.935,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.002962,
+   "strata_too_small": []
+  },
+  "push_in_terminal": {
+   "n_objects": 248,
+   "n_normal": 48,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "OilStain": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00695,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "recorder_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 50,
+    "ImpactDamage": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.003027,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "rectangular_connector_accessories": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 1,
+    "2": 12,
+    "3": 37,
+    "4": 93,
+    "5": 57
+   },
+   "p_k_le_2": 0.065,
+   "mean_k": 3.965,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Damage": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.00572,
+   "strata_too_small": [
+    "1"
+   ]
+  },
+  "red_terminal": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 16,
+    "5": 181
+   },
+   "p_k_le_2": 0.01,
+   "mean_k": 4.875,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Damage": 50,
+    "Deformation": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.015371,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "retaining_ring": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 2,
+    "3": 24,
+    "4": 17,
+    "5": 155
+   },
+   "p_k_le_2": 0.0101,
+   "mean_k": 4.641,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "MissingPart": 48,
+    "OilStain": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.070495,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "rheostat": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 49,
+    "Deformation": 50,
+    "Scratch": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.005699,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "rotary_position_sensor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 29,
+    "5": 171
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.855,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "MissingPart": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.011005,
+   "strata_too_small": []
+  },
+  "round_twist_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 12,
+    "5": 187
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.93,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "OilStain": 50,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.005224,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "self_lock_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Fracture": 50,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.004597,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "shelf_support_module": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 3,
+    "5": 196
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.975,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "GelatinousContaminant": 50,
+    "MissingPart": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.040474,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "side_press_switch": {
+   "n_objects": 247,
+   "n_normal": 50,
+   "n_anomalous": 197,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 197
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 222,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Deformation": 48,
+    "Discoloration": 50,
+    "GelatinousContaminant": 49
+   },
+   "median_defect_area_frac": 0.024128,
+   "strata_too_small": []
+  },
+  "side_release_buckle": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.99,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Discoloration": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.003905,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "silicon_cell_sensor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "Scratch": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.007019,
+   "strata_too_small": []
+  },
+  "sim_card_reader": {
+   "n_objects": 246,
+   "n_normal": 50,
+   "n_anomalous": 196,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 194
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.985,
+   "splits": {
+    "test": 221,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 47,
+    "Damage": 50,
+    "Discoloration": 49,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.012115,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "single_pole_potentiometer": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 1,
+    "4": 11,
+    "5": 187
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.92,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 50,
+    "Fracture": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.007057,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "single_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "Pit": 50,
+    "Scratch": 50,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.003418,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "slide_switch": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 4,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Deformation": 49,
+    "Fracture": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.01621,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "slipper_model": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "Scratch": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.011318,
+   "strata_too_small": []
+  },
+  "small_leaf": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 4,
+    "4": 27,
+    "5": 169
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.825,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Fracture": 50,
+    "Pit": 50,
+    "Scratch": 50,
+    "UnevenCoating": 50
+   },
+   "median_defect_area_frac": 0.003879,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "smd_receiver_module": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 5,
+    "4": 79,
+    "5": 115
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.553,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "ImpactDamage": 49,
+    "Warpage": 50
+   },
+   "median_defect_area_frac": 0.018796,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "solderless_adapter": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.013814,
+   "strata_too_small": []
+  },
+  "spherical_airstone": {
+   "n_objects": 246,
+   "n_normal": 48,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 4,
+    "4": 10,
+    "5": 184
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.909,
+   "splits": {
+    "test": 222,
+    "train": 24
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "Fracture": 48,
+    "GelatinousContaminant": 50,
+    "ImpactDamage": 50
+   },
+   "median_defect_area_frac": 0.008532,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "spring_antenna": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 3,
+    "2": 5,
+    "3": 2,
+    "4": 12,
+    "5": 178
+   },
+   "p_k_le_2": 0.04,
+   "mean_k": 4.785,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "BurnMark": 50,
+    "Deformation": 50,
+    "Discoloration": 50
+   },
+   "median_defect_area_frac": 0.025904,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "square_terminal": {
+   "n_objects": 249,
+   "n_normal": 49,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "MetallicContaminant": 50,
+    "MissingPart": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.029724,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "steering_T_head": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Discoloration": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50
+   },
+   "median_defect_area_frac": 0.024684,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "steering_wheel": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Discoloration": 50,
+    "Fracture": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.013831,
+   "strata_too_small": []
+  },
+  "suction_cup": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 2,
+    "4": 32,
+    "5": 166
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.82,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "MissingPart": 50,
+    "OilStain": 50,
+    "PorosityDS": 50
+   },
+   "median_defect_area_frac": 0.030133,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "telephone_spring_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "GelatinousContaminant": 50,
+    "Porosity": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.007892,
+   "strata_too_small": []
+  },
+  "tension_snap_release_clip": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 4,
+    "5": 194
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.98,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "GelatinousContaminant": 50,
+    "ImpactDamage": 48,
+    "MissingPart": 50,
+    "OilStain": 50
+   },
+   "median_defect_area_frac": 0.024059,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "thumbtack": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 2,
+    "2": 2,
+    "3": 3,
+    "4": 38,
+    "5": 154
+   },
+   "p_k_le_2": 0.0201,
+   "mean_k": 4.709,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "BurnMark": 50,
+    "Damage": 49,
+    "Discoloration": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.007302,
+   "strata_too_small": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "thyristor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.995,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "MetallicContaminant": 50,
+    "OilStain": 50,
+    "Scratch": 50,
+    "TwistedWire": 50
+   },
+   "median_defect_area_frac": 0.008909,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "toy_tire": {
+   "n_objects": 247,
+   "n_normal": 47,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 1,
+    "3": 3,
+    "4": 17,
+    "5": 179
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.87,
+   "splits": {
+    "test": 224,
+    "train": 23
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "GelatinousContaminant": 50,
+    "OilStain": 50,
+    "Pit": 50
+   },
+   "median_defect_area_frac": 0.02531,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "traceless_hair_clip": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 5,
+    "5": 195
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.975,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Discoloration": 50,
+    "GelatinousContaminant": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.01187,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "travel_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 50,
+    "Fracture": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.013174,
+   "strata_too_small": []
+  },
+  "travel_switch_green": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 199
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "CharacterOmission": 50,
+    "Damage": 50,
+    "Deformation": 50,
+    "Pit": 49
+   },
+   "median_defect_area_frac": 0.013315,
+   "strata_too_small": []
+  },
+  "tubular_key_switch": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "BurnMark": 50,
+    "Fracture": 48,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.012929,
+   "strata_too_small": []
+  },
+  "vacuum_switch": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 200
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Discoloration": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.001991,
+   "strata_too_small": []
+  },
+  "vehicle_harness_conductor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 24,
+    "5": 175
+   },
+   "p_k_le_2": 0.005,
+   "mean_k": 4.86,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Fracture": 50,
+    "Pit": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.005985,
+   "strata_too_small": [
+    "1"
+   ]
+  },
+  "vertical_adjustable_resistor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 17,
+    "3": 21,
+    "4": 14,
+    "5": 148
+   },
+   "p_k_le_2": 0.085,
+   "mean_k": 4.465,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "CharacterOmission": 50,
+    "Deformation": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.011241,
+   "strata_too_small": []
+  },
+  "vibration_motor": {
+   "n_objects": 250,
+   "n_normal": 50,
+   "n_anomalous": 200,
+   "k_hist": {
+    "1": 0,
+    "2": 3,
+    "3": 9,
+    "4": 17,
+    "5": 171
+   },
+   "p_k_le_2": 0.015,
+   "mean_k": 4.78,
+   "splits": {
+    "test": 225,
+    "train": 25
+   },
+   "defect_classes": {
+    "Deformation": 50,
+    "Fracture": 50,
+    "OilStain": 50,
+    "Scratch": 50
+   },
+   "median_defect_area_frac": 0.007721,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "volume_potentiometer": {
+   "n_objects": 249,
+   "n_normal": 50,
+   "n_anomalous": 199,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 56,
+    "5": 142
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.709,
+   "splits": {
+    "test": 224,
+    "train": 25
+   },
+   "defect_classes": {
+    "Abrasion": 50,
+    "Deformation": 49,
+    "MissingPart": 50,
+    "Porosity": 50
+   },
+   "median_defect_area_frac": 0.019835,
+   "strata_too_small": [
+    "3"
+   ]
+  },
+  "wireless_receiver_module": {
+   "n_objects": 248,
+   "n_normal": 50,
+   "n_anomalous": 198,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 198
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 5.0,
+   "splits": {
+    "test": 223,
+    "train": 25
+   },
+   "defect_classes": {
+    "Damage": 50,
+    "Deformation": 50,
+    "Discoloration": 50,
+    "Fracture": 48
+   },
+   "median_defect_area_frac": 0.022697,
+   "strata_too_small": []
+  }
+ },
+ "ok": false
+}

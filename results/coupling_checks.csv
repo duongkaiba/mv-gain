@@ -1,0 +1,4 @@
+quantity,observed,null_mean,null_lo,null_hi,percentile_of_observed,note
+"corr(aggregation_lift, gain_not_retained)",0.6426409641832808,0.7936830079271716,0.7583306984390404,0.8283200430014602,0.0,shares the lift term by construction; observed sits below the null
+"corr(baseline, object_delta)",-0.19796198045136015,-0.7104400527528092,-0.7609187347469508,-0.6533855990341025,100.0,regression to the mean; observed is far weaker than the null
+"corr(aggregation_lift, oracle_headroom)",-0.8949382719869451,0.21630110404020275,-0.5035008414057013,0.7583335236143506,0.0,"null is near zero, so this relationship is not an artefact"

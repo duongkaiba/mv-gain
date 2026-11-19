@@ -1,0 +1,817 @@
+{
+ "n_objects": 30210,
+ "checks": {
+  "wrong_view_count": [],
+  "duplicate_view_ids": [],
+  "label_vs_view_or_mismatch": [
+   [
+    "woodstick",
+    "NG/AK/S0061",
+    1,
+    0
+   ]
+  ],
+  "annotation_status_counts": {
+   "ok": 30209,
+   "empty_mask_on_anomaly": 1
+  },
+  "objects_with_missing_mask": [],
+  "objects_with_missing_image": [],
+  "mask_size_mismatch": [],
+  "duplicate_content_hash": {}
+ },
+ "per_category": {
+  "audiojack": {
+   "n_objects": 1010,
+   "n_normal": 493,
+   "n_anomalous": 517,
+   "k_hist": {
+    "1": 237,
+    "2": 71,
+    "3": 30,
+    "4": 68,
+    "5": 111
+   },
+   "p_k_le_2": 0.5957,
+   "mean_k": 2.507,
+   "splits": {
+    "test": 763,
+    "train": 247
+   },
+   "defect_classes": {
+    "BX": 130,
+    "HS": 129,
+    "QS": 130,
+    "ZW": 128
+   },
+   "median_defect_area_frac": 0.001785,
+   "strata_too_small": []
+  },
+  "bottle_cap": {
+   "n_objects": 1003,
+   "n_normal": 492,
+   "n_anomalous": 511,
+   "k_hist": {
+    "1": 91,
+    "2": 160,
+    "3": 33,
+    "4": 16,
+    "5": 211
+   },
+   "p_k_le_2": 0.4912,
+   "mean_k": 3.188,
+   "splits": {
+    "test": 757,
+    "train": 246
+   },
+   "defect_classes": {
+    "AK": 126,
+    "HS": 125,
+    "QS": 127,
+    "ZW": 133
+   },
+   "median_defect_area_frac": 0.00058,
+   "strata_too_small": []
+  },
+  "button_battery": {
+   "n_objects": 1000,
+   "n_normal": 483,
+   "n_anomalous": 517,
+   "k_hist": {
+    "1": 35,
+    "2": 71,
+    "3": 23,
+    "4": 37,
+    "5": 351
+   },
+   "p_k_le_2": 0.205,
+   "mean_k": 4.157,
+   "splits": {
+    "test": 758,
+    "train": 242
+   },
+   "defect_classes": {
+    "AK": 125,
+    "CH": 125,
+    "HS": 130,
+    "ZW": 137
+   },
+   "median_defect_area_frac": 0.001639,
+   "strata_too_small": []
+  },
+  "end_cap": {
+   "n_objects": 1002,
+   "n_normal": 482,
+   "n_anomalous": 520,
+   "k_hist": {
+    "1": 76,
+    "2": 16,
+    "3": 15,
+    "4": 35,
+    "5": 378
+   },
+   "p_k_le_2": 0.1769,
+   "mean_k": 4.198,
+   "splits": {
+    "test": 761,
+    "train": 241
+   },
+   "defect_classes": {
+    "HS": 128,
+    "PS": 122,
+    "QS": 133,
+    "ZW": 137
+   },
+   "median_defect_area_frac": 0.001006,
+   "strata_too_small": []
+  },
+  "eraser": {
+   "n_objects": 1013,
+   "n_normal": 492,
+   "n_anomalous": 521,
+   "k_hist": {
+    "1": 188,
+    "2": 92,
+    "3": 29,
+    "4": 34,
+    "5": 178
+   },
+   "p_k_le_2": 0.5374,
+   "mean_k": 2.85,
+   "splits": {
+    "test": 767,
+    "train": 246
+   },
+   "defect_classes": {
+    "AK": 129,
+    "HS": 128,
+    "QS": 127,
+    "ZW": 137
+   },
+   "median_defect_area_frac": 0.001769,
+   "strata_too_small": []
+  },
+  "fire_hood": {
+   "n_objects": 1005,
+   "n_normal": 501,
+   "n_anomalous": 504,
+   "k_hist": {
+    "1": 163,
+    "2": 165,
+    "3": 8,
+    "4": 7,
+    "5": 161
+   },
+   "p_k_le_2": 0.6508,
+   "mean_k": 2.679,
+   "splits": {
+    "test": 754,
+    "train": 251
+   },
+   "defect_classes": {
+    "AK": 132,
+    "HS": 130,
+    "QS": 136,
+    "ZW": 106
+   },
+   "median_defect_area_frac": 0.000937,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "mint": {
+   "n_objects": 1061,
+   "n_normal": 334,
+   "n_anomalous": 727,
+   "k_hist": {
+    "1": 168,
+    "2": 150,
+    "3": 141,
+    "4": 134,
+    "5": 134
+   },
+   "p_k_le_2": 0.4374,
+   "mean_k": 2.884,
+   "splits": {
+    "test": 894,
+    "train": 167
+   },
+   "defect_classes": {
+    "QS": 181,
+    "YW": 298,
+    "ZW": 248
+   },
+   "median_defect_area_frac": 0.000429,
+   "strata_too_small": []
+  },
+  "mounts": {
+   "n_objects": 1010,
+   "n_normal": 499,
+   "n_anomalous": 511,
+   "k_hist": {
+    "1": 220,
+    "2": 67,
+    "3": 64,
+    "4": 9,
+    "5": 151
+   },
+   "p_k_le_2": 0.5616,
+   "mean_k": 2.616,
+   "splits": {
+    "test": 760,
+    "train": 250
+   },
+   "defect_classes": {
+    "AK": 170,
+    "QS": 170,
+    "ZW": 171
+   },
+   "median_defect_area_frac": 0.002234,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "pcb": {
+   "n_objects": 1002,
+   "n_normal": 493,
+   "n_anomalous": 509,
+   "k_hist": {
+    "1": 40,
+    "2": 11,
+    "3": 0,
+    "4": 63,
+    "5": 395
+   },
+   "p_k_le_2": 0.1002,
+   "mean_k": 4.497,
+   "splits": {
+    "test": 755,
+    "train": 247
+   },
+   "defect_classes": {
+    "HS": 126,
+    "QS": 125,
+    "YW": 131,
+    "ZW": 127
+   },
+   "median_defect_area_frac": 0.001188,
+   "strata_too_small": []
+  },
+  "phone_battery": {
+   "n_objects": 1000,
+   "n_normal": 483,
+   "n_anomalous": 517,
+   "k_hist": {
+    "1": 188,
+    "2": 37,
+    "3": 45,
+    "4": 83,
+    "5": 164
+   },
+   "p_k_le_2": 0.4352,
+   "mean_k": 2.996,
+   "splits": {
+    "test": 758,
+    "train": 242
+   },
+   "defect_classes": {
+    "AK": 117,
+    "HS": 127,
+    "PS": 132,
+    "ZW": 141
+   },
+   "median_defect_area_frac": 0.001616,
+   "strata_too_small": []
+  },
+  "plastic_nut": {
+   "n_objects": 1002,
+   "n_normal": 502,
+   "n_anomalous": 500,
+   "k_hist": {
+    "1": 90,
+    "2": 272,
+    "3": 35,
+    "4": 14,
+    "5": 89
+   },
+   "p_k_le_2": 0.724,
+   "mean_k": 2.48,
+   "splits": {
+    "test": 751,
+    "train": 251
+   },
+   "defect_classes": {
+    "AK": 110,
+    "HS": 135,
+    "QS": 127,
+    "ZW": 128
+   },
+   "median_defect_area_frac": 0.001155,
+   "strata_too_small": []
+  },
+  "plastic_plug": {
+   "n_objects": 999,
+   "n_normal": 485,
+   "n_anomalous": 514,
+   "k_hist": {
+    "1": 137,
+    "2": 89,
+    "3": 87,
+    "4": 162,
+    "5": 39
+   },
+   "p_k_le_2": 0.4397,
+   "mean_k": 2.761,
+   "splits": {
+    "test": 756,
+    "train": 243
+   },
+   "defect_classes": {
+    "AK": 169,
+    "HS": 102,
+    "QS": 104,
+    "ZW": 139
+   },
+   "median_defect_area_frac": 0.000843,
+   "strata_too_small": []
+  },
+  "porcelain_doll": {
+   "n_objects": 1000,
+   "n_normal": 483,
+   "n_anomalous": 517,
+   "k_hist": {
+    "1": 204,
+    "2": 109,
+    "3": 54,
+    "4": 79,
+    "5": 71
+   },
+   "p_k_le_2": 0.6054,
+   "mean_k": 2.427,
+   "splits": {
+    "test": 758,
+    "train": 242
+   },
+   "defect_classes": {
+    "CH": 172,
+    "HS": 162,
+    "ZW": 183
+   },
+   "median_defect_area_frac": 0.001138,
+   "strata_too_small": []
+  },
+  "regulator": {
+   "n_objects": 1020,
+   "n_normal": 498,
+   "n_anomalous": 522,
+   "k_hist": {
+    "1": 164,
+    "2": 282,
+    "3": 13,
+    "4": 2,
+    "5": 61
+   },
+   "p_k_le_2": 0.8544,
+   "mean_k": 2.069,
+   "splits": {
+    "test": 771,
+    "train": 249
+   },
+   "defect_classes": {
+    "AK": 130,
+    "HS": 130,
+    "QS": 130,
+    "ZW": 132
+   },
+   "median_defect_area_frac": 0.00073,
+   "strata_too_small": [
+    "4"
+   ]
+  },
+  "rolled_strip_base": {
+   "n_objects": 1010,
+   "n_normal": 497,
+   "n_anomalous": 513,
+   "k_hist": {
+    "1": 3,
+    "2": 0,
+    "3": 1,
+    "4": 26,
+    "5": 483
+   },
+   "p_k_le_2": 0.0058,
+   "mean_k": 4.922,
+   "splits": {
+    "test": 761,
+    "train": 249
+   },
+   "defect_classes": {
+    "AK": 170,
+    "QS": 170,
+    "ZW": 173
+   },
+   "median_defect_area_frac": 0.001977,
+   "strata_too_small": [
+    "1",
+    "3"
+   ]
+  },
+  "sim_card_set": {
+   "n_objects": 1006,
+   "n_normal": 498,
+   "n_anomalous": 508,
+   "k_hist": {
+    "1": 95,
+    "2": 9,
+    "3": 9,
+    "4": 47,
+    "5": 348
+   },
+   "p_k_le_2": 0.2047,
+   "mean_k": 4.071,
+   "splits": {
+    "test": 757,
+    "train": 249
+   },
+   "defect_classes": {
+    "CH": 169,
+    "HS": 171,
+    "ZW": 168
+   },
+   "median_defect_area_frac": 0.001536,
+   "strata_too_small": [
+    "2",
+    "3"
+   ]
+  },
+  "switch": {
+   "n_objects": 1010,
+   "n_normal": 492,
+   "n_anomalous": 518,
+   "k_hist": {
+    "1": 18,
+    "2": 12,
+    "3": 99,
+    "4": 290,
+    "5": 99
+   },
+   "p_k_le_2": 0.0579,
+   "mean_k": 3.849,
+   "splits": {
+    "test": 764,
+    "train": 246
+   },
+   "defect_classes": {
+    "HS": 176,
+    "QS": 170,
+    "ZW": 172
+   },
+   "median_defect_area_frac": 0.002003,
+   "strata_too_small": []
+  },
+  "tape": {
+   "n_objects": 1020,
+   "n_normal": 500,
+   "n_anomalous": 520,
+   "k_hist": {
+    "1": 79,
+    "2": 214,
+    "3": 73,
+    "4": 53,
+    "5": 101
+   },
+   "p_k_le_2": 0.5635,
+   "mean_k": 2.775,
+   "splits": {
+    "test": 770,
+    "train": 250
+   },
+   "defect_classes": {
+    "HS": 130,
+    "PS": 130,
+    "QS": 130,
+    "ZW": 130
+   },
+   "median_defect_area_frac": 0.002057,
+   "strata_too_small": []
+  },
+  "terminalblock": {
+   "n_objects": 1010,
+   "n_normal": 487,
+   "n_anomalous": 523,
+   "k_hist": {
+    "1": 98,
+    "2": 30,
+    "3": 37,
+    "4": 54,
+    "5": 304
+   },
+   "p_k_le_2": 0.2447,
+   "mean_k": 3.834,
+   "splits": {
+    "test": 766,
+    "train": 244
+   },
+   "defect_classes": {
+    "AK": 170,
+    "QS": 170,
+    "ZW": 183
+   },
+   "median_defect_area_frac": 0.00098,
+   "strata_too_small": []
+  },
+  "toothbrush": {
+   "n_objects": 1001,
+   "n_normal": 489,
+   "n_anomalous": 512,
+   "k_hist": {
+    "1": 29,
+    "2": 69,
+    "3": 85,
+    "4": 40,
+    "5": 289
+   },
+   "p_k_le_2": 0.1914,
+   "mean_k": 3.959,
+   "splits": {
+    "test": 756,
+    "train": 245
+   },
+   "defect_classes": {
+    "CH": 175,
+    "QS": 167,
+    "ZW": 170
+   },
+   "median_defect_area_frac": 0.006989,
+   "strata_too_small": []
+  },
+  "toy": {
+   "n_objects": 1005,
+   "n_normal": 499,
+   "n_anomalous": 506,
+   "k_hist": {
+    "1": 0,
+    "2": 2,
+    "3": 148,
+    "4": 38,
+    "5": 318
+   },
+   "p_k_le_2": 0.004,
+   "mean_k": 4.328,
+   "splits": {
+    "test": 755,
+    "train": 250
+   },
+   "defect_classes": {
+    "AK": 125,
+    "HS": 127,
+    "QS": 126,
+    "ZW": 128
+   },
+   "median_defect_area_frac": 0.000935,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "toy_brick": {
+   "n_objects": 1002,
+   "n_normal": 496,
+   "n_anomalous": 506,
+   "k_hist": {
+    "1": 167,
+    "2": 83,
+    "3": 29,
+    "4": 19,
+    "5": 208
+   },
+   "p_k_le_2": 0.4941,
+   "mean_k": 3.036,
+   "splits": {
+    "test": 754,
+    "train": 248
+   },
+   "defect_classes": {
+    "AK": 135,
+    "HS": 126,
+    "QS": 132,
+    "ZW": 113
+   },
+   "median_defect_area_frac": 0.001847,
+   "strata_too_small": []
+  },
+  "transistor1": {
+   "n_objects": 1000,
+   "n_normal": 497,
+   "n_anomalous": 503,
+   "k_hist": {
+    "1": 24,
+    "2": 5,
+    "3": 15,
+    "4": 258,
+    "5": 201
+   },
+   "p_k_le_2": 0.0577,
+   "mean_k": 4.207,
+   "splits": {
+    "test": 751,
+    "train": 249
+   },
+   "defect_classes": {
+    "BX": 173,
+    "QS": 164,
+    "ZW": 166
+   },
+   "median_defect_area_frac": 0.002459,
+   "strata_too_small": [
+    "2"
+   ]
+  },
+  "u_block": {
+   "n_objects": 998,
+   "n_normal": 499,
+   "n_anomalous": 499,
+   "k_hist": {
+    "1": 73,
+    "2": 269,
+    "3": 83,
+    "4": 24,
+    "5": 50
+   },
+   "p_k_le_2": 0.6854,
+   "mean_k": 2.417,
+   "splits": {
+    "test": 748,
+    "train": 250
+   },
+   "defect_classes": {
+    "CH": 125,
+    "HS": 121,
+    "QS": 125,
+    "ZW": 128
+   },
+   "median_defect_area_frac": 0.001843,
+   "strata_too_small": []
+  },
+  "usb": {
+   "n_objects": 1010,
+   "n_normal": 492,
+   "n_anomalous": 518,
+   "k_hist": {
+    "1": 160,
+    "2": 26,
+    "3": 14,
+    "4": 90,
+    "5": 228
+   },
+   "p_k_le_2": 0.3591,
+   "mean_k": 3.386,
+   "splits": {
+    "test": 764,
+    "train": 246
+   },
+   "defect_classes": {
+    "BX": 133,
+    "HS": 124,
+    "QS": 131,
+    "ZW": 130
+   },
+   "median_defect_area_frac": 0.001301,
+   "strata_too_small": []
+  },
+  "usb_adaptor": {
+   "n_objects": 1003,
+   "n_normal": 461,
+   "n_anomalous": 542,
+   "k_hist": {
+    "1": 225,
+    "2": 43,
+    "3": 33,
+    "4": 97,
+    "5": 144
+   },
+   "p_k_le_2": 0.4945,
+   "mean_k": 2.801,
+   "splits": {
+    "test": 772,
+    "train": 231
+   },
+   "defect_classes": {
+    "AK": 109,
+    "CH": 128,
+    "HS": 135,
+    "ZW": 170
+   },
+   "median_defect_area_frac": 0.000583,
+   "strata_too_small": []
+  },
+  "vcpill": {
+   "n_objects": 1005,
+   "n_normal": 504,
+   "n_anomalous": 501,
+   "k_hist": {
+    "1": 105,
+    "2": 159,
+    "3": 54,
+    "4": 30,
+    "5": 153
+   },
+   "p_k_le_2": 0.5269,
+   "mean_k": 2.934,
+   "splits": {
+    "test": 753,
+    "train": 252
+   },
+   "defect_classes": {
+    "AK": 110,
+    "HS": 126,
+    "QS": 128,
+    "ZW": 137
+   },
+   "median_defect_area_frac": 0.005295,
+   "strata_too_small": []
+  },
+  "wooden_beads": {
+   "n_objects": 1001,
+   "n_normal": 435,
+   "n_anomalous": 566,
+   "k_hist": {
+    "1": 130,
+    "2": 73,
+    "3": 126,
+    "4": 155,
+    "5": 82
+   },
+   "p_k_le_2": 0.3587,
+   "mean_k": 2.975,
+   "splits": {
+    "test": 783,
+    "train": 218
+   },
+   "defect_classes": {
+    "AK": 128,
+    "HS": 139,
+    "QS": 126,
+    "ZW": 173
+   },
+   "median_defect_area_frac": 0.001572,
+   "strata_too_small": []
+  },
+  "woodstick": {
+   "n_objects": 1001,
+   "n_normal": 501,
+   "n_anomalous": 500,
+   "k_hist": {
+    "1": 265,
+    "2": 113,
+    "3": 9,
+    "4": 8,
+    "5": 104
+   },
+   "p_k_le_2": 0.756,
+   "mean_k": 2.14,
+   "splits": {
+    "test": 750,
+    "train": 251
+   },
+   "defect_classes": {
+    "AK": 117,
+    "HS": 134,
+    "QS": 125,
+    "ZW": 124
+   },
+   "median_defect_area_frac": 0.002066,
+   "strata_too_small": [
+    "3",
+    "4"
+   ]
+  },
+  "zipper": {
+   "n_objects": 1001,
+   "n_normal": 501,
+   "n_anomalous": 500,
+   "k_hist": {
+    "1": 0,
+    "2": 0,
+    "3": 39,
+    "4": 91,
+    "5": 370
+   },
+   "p_k_le_2": 0.0,
+   "mean_k": 4.662,
+   "splits": {
+    "test": 750,
+    "train": 251
+   },
+   "defect_classes": {
+    "BX": 125,
+    "PS": 121,
+    "QS": 125,
+    "ZW": 129
+   },
+   "median_defect_area_frac": 0.005804,
+   "strata_too_small": []
+  }
+ },
+ "ok": false
+}
