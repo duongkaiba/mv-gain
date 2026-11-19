@@ -17,4 +17,4 @@ The input datasets are public and are not redistributed here:
 | `results/*.csv` | Every table in the manuscript and the supplementary material, generated from the prediction files. |
 | `analysis_scripts/` | Scripts that generate `results/` from `predictions/`, and `verify_claims.py` / `verify_text.py`, which re-check the numbers stated in the manuscript. |
 
-All post-hoc analyses run on CPU from the prediction files. The scripts were written against the original workspace layout; set their `EXP` path to `release/predictions` (and the protocol path to `release/protocol`) to run them here. The training and inference code will be released in this repository upon publication.
+All post-hoc analyses run on CPU from the prediction files. The scripts were written against the original workspace layout; set their `EXP` path to the `predictions/` folder of this release (and the protocol path to `protocol/`) to run them here. The training and inference code will be released in this repository upon publication.
